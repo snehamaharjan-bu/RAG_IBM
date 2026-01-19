@@ -1,9 +1,9 @@
 # RAG_IBM
 Building RAG applications
 
-Demo link for simple LLM chatbot: https://drive.google.com/file/d/1OF-h5MzXSEsfLPAT4p0AEGJDgy-TMjd-/view?usp=sharing
+Demo link for simple LLM chatbot: https://drive.google.com/file/d/1rCwgHgnwhvXcH5EwPrA5y8HdFmTDxezl/view?usp=sharing
 
-Demo link for RAG enabled LLM chatbot: https://drive.google.com/file/d/197eF2m_Yl6d4dKwUsXIThlvPYAoBGN7P/view?usp=sharing
+Demo link for RAG enabled LLM chatbot: https://drive.google.com/file/d/1tJrnQ2APIBXDXw8BDUouttUWPPk51VPL/view?usp=sharing
 
 # 📄 RAG-Based PDF Question Answering Chatbot
 
